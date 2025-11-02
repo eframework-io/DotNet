@@ -1,0 +1,3 @@
+[submodule "Packages/DotNet.Utility"]
+	path = Packages/DotNet.Utility
+	url = https://github.com/eframework-io/DotNet.Utility.git
