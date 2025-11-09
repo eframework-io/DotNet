@@ -7,8 +7,8 @@
 
 ## 功能特性
 
-- [DotNet.CRUD](Packages/DotNet.CRUD/README.md) 集成了 SqlSugar 的扩展功能以及对 NoSQL 键值存储的支持，专为游戏类等对数据操作性能和延迟有严格要求的业务场景设计。
-- [DotNet.Utility](Packages/DotNet.Utility/README.md) 基于 .NET 的通用基础类库，集成了首选项管理、多任务调度、日志输出、事件系统与文件处理等核心模块。
+- [EFramework CRUD for DotNet](https://github.com/eframework-io/DotNet.CRUD)：集成了 SqlSugar 的扩展功能以及对 NoSQL 键值存储的支持，专为游戏类等对数据操作性能和延迟有严格要求的业务场景设计。
+- [EFramework Utility for DotNet](https://github.com/eframework-io/DotNet.Utility)：基于 .NET 的通用基础类库，集成了首选项管理、多任务调度、日志输出、事件系统与文件处理等核心模块。
 
 ## 常见问题
 
