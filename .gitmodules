@@ -1,3 +1,6 @@
+[submodule "Packages/DotNet.CRUD"]
+	path = Packages/DotNet.CRUD
+	url = https://github.com/eframework-io/DotNet.CRUD.git
 [submodule "Packages/DotNet.Utility"]
 	path = Packages/DotNet.Utility
 	url = https://github.com/eframework-io/DotNet.Utility.git
