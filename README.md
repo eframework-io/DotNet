@@ -1,6 +1,7 @@
 # EFramework for DotNet
 
 [![DeepWiki](https://img.shields.io/badge/DeepWiki-Explore-blue)](https://deepwiki.com/eframework-io/DotNet)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?label=License)](LICENSE)
 [![Discord](https://img.shields.io/discord/1422114598835851286?label=Discord&logo=discord)](https://discord.gg/XMPx2wXSz3)
 
 基于 .NET 平台的开发框架，提供了一系列高效且易用的类库，专注于快速开发稳定可靠的应用。
